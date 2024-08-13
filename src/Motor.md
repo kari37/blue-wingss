@@ -1,5 +1,3 @@
-Motor: 
-
 Para superar los obstáculos, se empleó un sensor de color que detecta el color del obstáculo (verde o rojo). Además, se utilizaron tres motores: un motor de dirección y dos motores de movimiento lineal. 
 
 Sensor de Color: Este sensor se encarga de identificar el color de los obstáculos. Cuando el robot se aproxima a un bloque, el sensor de color detecta si es verde o rojo y desencadena las acciones programadas correspondientes. 
