@@ -1,0 +1,5 @@
+Sensor:  
+
+Sensor de color de Mindstorms EV3: Este sensor se utilizó para detectar el color de los obstáculos (bloques rojos y verdes). Al estar a una distancia de 2 cm del obstáculo, el sensor detecta el color y ejecuta las acciones programadas correspondientes. 
+
+Tres sensores infrarrojos de Mindstorms EV3: Estos sensores se emplearon para detectar los bordes de la pista. El sensor infrarrojo en la parte delantera del robot se utilizó para detectar el borde externo; cuando detecta una proximidad menor al 34%, realiza las acciones programadas para esa condición. Los otros dos sensores infrarrojos se ubicaron en los laterales del robot para medir la distancia al borde interior. En dirección horaria, el sensor infrarrojo ubicado en el lado derecho del robot, al detectar proximidades menores al 15%, ejecuta las acciones programadas para evitar colisiones con el borde. En dirección antihoraria, el sensor infrarrojo ubicado en el lado izquierdo del robot realiza funciones similares, detectando proximidades menores al 15% y ejecutando las acciones necesarias para evitar choques con el borde interior. 
